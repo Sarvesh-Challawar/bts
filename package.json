@@ -1,0 +1,24 @@
+{
+  "name": "bts-project",
+  "version": "1.0.0",
+  "description": "BTS Project",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarvesh-Challawar/bts.git"
+  },
+  "author": "Sarvesh Challawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarvesh-Challawar/bts/issues"
+  },
+  "homepage": "https://github.com/Sarvesh-Challawar/bts#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
